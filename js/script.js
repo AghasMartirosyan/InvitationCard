@@ -1,7 +1,7 @@
 const dateElements = document.querySelectorAll('.js-date')
 
 let currentDate = new Date()
-let weddingDate = new Date(2024, 6, 21)      
+let weddingDate = new Date(2024, 6, 22)      
 
 let start = Date.parse(currentDate)
 let end = Date.parse(weddingDate)
